@@ -3,6 +3,7 @@ Report: Candidate-Job Matching Using DistilBERT Embeddins
 
 1. Approach to the Task:
 Our approach to the candidate-job matching task involves the following key steps:
+
 Step 1: Data Extraction and Preprocessing:
 - We started by extracting text data from PDF resumes using the pdfplumber library.
 - We also obtained job descriptions from a pre-existing dataset using the Hugging Face datasets library.
